@@ -7,11 +7,11 @@ Technologies used in this app:
  <li><a href="https://www.meteor.com/">meteor<a></li>
 </ul>
 
-To run locally run:
- <code>meteor</code> in your terminal.
+To run locally type:
+ <ul><li><code>meteor</code> in your terminal.</li></ul>
  
-To deploy to meteor run:
- <code>meteor deploy name_app_here.meteor.com</code> in your terminal.
+To deploy to meteor type:
+ <ul><li><code>meteor deploy name_app_here.meteor.com</code> in your terminal.</li></ul>
  
  Good luck!
  
